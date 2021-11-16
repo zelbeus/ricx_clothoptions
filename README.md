@@ -5,5 +5,6 @@ Players must have bandanas or shirts saved in redemrp's clothes database to use 
 Dependencies
 
 redemrp_clothing
+
 redemrp_menu_base
 ![2021-11-16 19-02-42_Moment](https://user-images.githubusercontent.com/66686454/142062062-055dd7cd-daf1-4e98-a559-f366533a21d9.jpg)
